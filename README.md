@@ -3,7 +3,7 @@ Client Repo Link - [bistro-boss-client-with-auth](https://github.com/Programming
 
 <i> Today we did not work on This . It is same as the previous work changes . </i> 
 ## Overview
-BistroBoss is a comprehensive restaurant management system designed to streamline operations, enhance customer experience, and improve overall efficiency. The system leverages modern web technologies to provide a robust, scalable, and high-performance solution for managing complex data structures and interactions within a restaurant environment.
+BistroBoss is a comprehensive restaurant management system designed to streamline operations, enhance customer experience, and improve overall efficiency. The system leverages modern web technologies to provide a robust, scalable, & high-performance solution for managing complex data structures and interactions within a restaurant environment.
 
 ## API End Points 
 
